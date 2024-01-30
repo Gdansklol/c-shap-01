@@ -1,0 +1,15 @@
+/Volumes/ws/cshap/hello01/hello01/bin/Debug/net7.0/hello01
+/Volumes/ws/cshap/hello01/hello01/bin/Debug/net7.0/hello01.deps.json
+/Volumes/ws/cshap/hello01/hello01/bin/Debug/net7.0/hello01.runtimeconfig.json
+/Volumes/ws/cshap/hello01/hello01/bin/Debug/net7.0/hello01.dll
+/Volumes/ws/cshap/hello01/hello01/bin/Debug/net7.0/hello01.pdb
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.csproj.AssemblyReference.cache
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.AssemblyInfoInputs.cache
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.AssemblyInfo.cs
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.csproj.CoreCompileInputs.cache
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.dll
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/refint/hello01.dll
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.pdb
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/hello01.genruntimeconfig.cache
+/Volumes/ws/cshap/hello01/hello01/obj/Debug/net7.0/ref/hello01.dll
